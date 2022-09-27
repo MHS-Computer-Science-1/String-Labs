@@ -1,0 +1,17 @@
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\bin\Debug\net6.0-windows\String Labs.exe
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\bin\Debug\net6.0-windows\String Labs.deps.json
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\bin\Debug\net6.0-windows\String Labs.runtimeconfig.json
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\bin\Debug\net6.0-windows\String Labs.dll
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\bin\Debug\net6.0-windows\String Labs.pdb
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\obj\Debug\net6.0-windows\String Labs.vbproj.AssemblyReference.cache
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\obj\Debug\net6.0-windows\String_Labs.Form1.resources
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\obj\Debug\net6.0-windows\String Labs.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\obj\Debug\net6.0-windows\String Labs.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\obj\Debug\net6.0-windows\String Labs.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\obj\Debug\net6.0-windows\String Labs.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\obj\Debug\net6.0-windows\String Labs.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\obj\Debug\net6.0-windows\String Labs.dll
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\obj\Debug\net6.0-windows\refint\String Labs.dll
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\obj\Debug\net6.0-windows\String Labs.pdb
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\obj\Debug\net6.0-windows\String Labs.genruntimeconfig.cache
+G:\My Drive\Courses\CS1\06 String Manipulation\String Labs\String Labs\obj\Debug\net6.0-windows\ref\String Labs.dll
