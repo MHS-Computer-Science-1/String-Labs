@@ -58,7 +58,7 @@
         'result5 = 
         ListBox1.Items.Add(result5)
         
-        'Extract and print "of it."
+        'Extract and print "."
         'result6 = 
         ListBox1.Items.Add(result6)
     End Sub
