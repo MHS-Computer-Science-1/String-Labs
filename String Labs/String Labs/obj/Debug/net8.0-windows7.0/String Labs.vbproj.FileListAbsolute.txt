@@ -1,0 +1,17 @@
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\bin\Debug\net8.0-windows7.0\String Labs.exe
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\bin\Debug\net8.0-windows7.0\String Labs.deps.json
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\bin\Debug\net8.0-windows7.0\String Labs.runtimeconfig.json
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\bin\Debug\net8.0-windows7.0\String Labs.dll
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\bin\Debug\net8.0-windows7.0\String Labs.pdb
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\obj\Debug\net8.0-windows7.0\String_Labs.Form1.resources
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\obj\Debug\net8.0-windows7.0\String Labs.vbproj.GenerateResource.cache
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\obj\Debug\net8.0-windows7.0\String Labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\obj\Debug\net8.0-windows7.0\String Labs.AssemblyInfoInputs.cache
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\obj\Debug\net8.0-windows7.0\String Labs.AssemblyInfo.vb
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\obj\Debug\net8.0-windows7.0\String Labs.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\obj\Debug\net8.0-windows7.0\String Labs.sourcelink.json
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\obj\Debug\net8.0-windows7.0\String Labs.dll
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\obj\Debug\net8.0-windows7.0\refint\String Labs.dll
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\obj\Debug\net8.0-windows7.0\String Labs.pdb
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\obj\Debug\net8.0-windows7.0\String Labs.genruntimeconfig.cache
+C:\Users\foxrw\Source\Repos\String-Labs\String Labs\String Labs\obj\Debug\net8.0-windows7.0\ref\String Labs.dll
